@@ -1,0 +1,27 @@
+B = codex Bruxeliensis 10799 s. VIIII.
+Τ = codex Treuerieus 160 s. VIIII.
+
+V = codun Vaticanus 512 s. X.
+
+E = codex Parisinus luscos. XI.
+
+0 = codex cassinensis 170 s. XI
+M = codex Victorinus 14905 s. XII.
+
+N = codex Regius 1939 s. XII.
+R = codex Trecensis 40 s. XII.
+
+S = codex Trecensis 201. s, XII.
+
+P = codex Monacensis 3896 s. XIIII.
+
+I = codex Treuericus 165 s. XV.
+
+b = editio princeps Basileus 1506 apud Io. Amorbschium.
+
+d = editio Benediclinorum asciano 1686.
+
+Euo = Ilungpii excerpto ox operibus s. Augustini od. P. Knoell.
+
+ 
+

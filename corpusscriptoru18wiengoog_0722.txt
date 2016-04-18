@@ -1,0 +1,29 @@
+Κ -- codex coloniensis 76 e. VIII.
+
+L = codex Vossianus Leideneie 38 e. VIIII.
+R = codex Vaticanus Reginae 318 e. X.
+
+S = codex Sangalleneis 150 e. X.
+
+P = codex Coloniensis 71 e. XI.
+
+F = codex Floriacensie 165 x. XI.
+
+B = codex Berolineneie 20 s. XI-XII.
+
+N = codex Montepessulanue 137 s. VIIII
+D = codex Sengemxdnnensis 13333 e. x11
+V = codex Vaticanus 514 s. XII.
+
+O = codex Regius 2047 e. XII.
+
+A = codex Metennio e. adenulphi 138 x. XI.
+γ = codex Regius 2044 e. XIII.
+
+W: codex Vixdobonensie 735 e. XIII.
+
+b = editio prInceps Besileae 1500 apud Io. Amerbechium.
+d = editio Benedictinorum a S. Mauro 1685.
+
+ 
+

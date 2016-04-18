@@ -1,0 +1,37 @@
+0 = codex olinx Corbeiensis nunc Parisinus 13361 s. VI.
+P = codex Palatinus numero 210 signatus s. VII.
+
+K = codex coloniensis numero 76 sIgnsius s. VIII.
+
+I = codex Lauduncnsis n. 136 s. VIIII.
+
+Z = codex Luudunensis n. 135 s. VIIII exeunt.
+
+γ = code'x Cluniaccnsis 30 (nou. sequ. 1448) s. I'IIII.
+H = codex coloniensis n. 18 s. VIIII-X.
+
+S = codex Parisinus n. 1969 s. VIIII.
+A = codex Vindobonensis 1021 s. X.
+D = codex olim Bigotienus nune Paris. n. 2150 s. X.
+
+R = codex Parisinus (Mozudneus) n. 1643 s. x-xi.
+Β = codex Bernensis n. 162 s. XI.
+
+G = codex Bambergensis III 18 s. xl.
+
+X = codex vindobonensis 849 s. IIII.
+
+T = codex Parisinus n. 16860 s. XI.
+
+M = codex Monacensis 14491 s. XI.
+
+E = codex Monacensis 15809 s. 1111.
+
+Ν = codex Monacensis 17051 s. xlx.
+
+Y = codices cassinenses 170 et 165 s. xl et III-XII.
+0 = editio pxiuceps Basileus 1506 apudIo.dmerbschin1n.
+d = editio Benedieiinorusn a S. Mauro 1686.
+
+ 
+

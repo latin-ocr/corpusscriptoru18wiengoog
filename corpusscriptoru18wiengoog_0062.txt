@@ -1,0 +1,25 @@
+R = codex Veronensis XXXIII. 31 s. VIII-XIIII.
+F = codex Mon. s, Floriani XI 76 e. XI.
+
+Α = codex Metensis s, Arnnlphi 139 s. XI.
+
+S = codex salisburgensis A VII 31 s. XII med.
+T = codex Treconsis 40 ιιοΙ. 1 s. ΧΙΙ.
+
+γ = codex Monacensis 22220 s. XII.
+
+P = codex Vaticanus 417 s. XII.
+
+N = codex Trecensis 1300 s. XIII.
+
+M = codex Monacensis 3826 s. XIIII.
+
+0 = codex 124 qni in mon. Mein asseruntur s. XV.
+
+V = codex Vindobonensis 4390 s. XV.
+
+b = editio princeps Besileec 1506 apud Io. Amerbacnium.
+d = ediiio Benedictinornm c S. Mauro 1686.
+
+ 
+
